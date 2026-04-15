@@ -33,7 +33,7 @@ int main() {
         cout << "Number of key comparisons: "
              << ArrayListDictionary<string, string>::getNumComps() << endl;
     }
-
+    cout << "binary search, recursive\n";
     // terminate
     return 0;
 }
